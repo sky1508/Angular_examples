@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calc App</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+  </head>
+  
+  <body ng-app="myApp" ng-controller="myController">
+    
+    <div class="container">
+      <hr>
+      <center><h2>Calculator</h2></center>
+      <hr>
+
+      <div class="alert alert-info" ng-if="message">
+       <a href="#" class="close" ng-click="clearMessage()">&times;</a>
+        {{message}}
+      </div>
+      
+      <form novalidate>
+		First Number:<br>
+		<input type="text" ng-model="firstNum"><br>
+		Second Number:<br>
+		<input type="text" ng-model="secondNum">
+		<br><br>
+		Result:<p>{{result}}</p>
+		<br>
+		<button class="btn btn-info" ng-click="add()">ADD</button>
+		<button class="btn btn-info" ng-click="subract()">SUB</button>
+		<button class="btn btn-info" ng-click="multiply()">MUL</button>
+		<button class="btn btn-info" ng-click="divide()">DIV</button>
+		<button class="btn btn-info" ng-click="clear()">Clear</button>
+	  </form>
+    </div>
+
+     
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
