@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ControllerAS App</title>
+    <script src="js/angular.min.js" type="text/javascript"></script>
+    <script src="js/angular-ui-router.js" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
+    <link href="css/app.css" rel="stylesheet" type="text/css" />
+    <!--<base href="/" />-->
+</head>
+<body ng-app="Demo">
+    <table style="font-family: Arial">
+        <tr>
+            <td colspan="2" class="header">
+                <h1>Website Header</h1>
+            </td>
+        </tr>
+
+        <tr>
+            <td class="leftMenu">
+                <a ui-sref="home">Home</a>
+                <a ui-sref="employee">Employees</a>
+                <a ui-sref="courses">Courses</a>
+            </td>
+            <td class="mainContent">
+                <ui-view></ui-view>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" class="footer">
+                <b>Website footer</b>
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
