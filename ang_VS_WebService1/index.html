@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Service App</title>
+    <script src="js/angular.min.js" type="text/javascript"></script>
+    <script src="js/angular-route.js" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
+    <link href="css/app.css" rel="stylesheet" type="text/css" />
+    
+</head>
+<body ng-app="myApp">
+    <div ng-controller="myController">
+        <table>
+            <thead<>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees">
+                    <td>{{employee.id}}</td>
+                    <td>{{employee.name}}</td>
+                    <td>{{employee.gender}}</td>
+                    <td>{{employee.salary}}</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+</body>
+</html>
