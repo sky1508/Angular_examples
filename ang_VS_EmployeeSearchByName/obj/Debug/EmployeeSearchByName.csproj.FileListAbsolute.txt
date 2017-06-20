@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\EmployeeSearchByName\bin\EmployeeSearchByName.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\EmployeeSearchByName\bin\EmployeeSearchByName.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\EmployeeSearchByName\obj\Debug\EmployeeSearchByName.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\EmployeeSearchByName\obj\Debug\EmployeeSearchByName.pdb

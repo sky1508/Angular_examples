@@ -1,0 +1,21 @@
+﻿<h1>Student Search</h1>
+
+<table border="1" style="border-collapse:collapse">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Salary</th>
+    </tr>
+    </thead>
+
+    <tr ng-repeat="employee in employeeSearchCtrl.employees">
+        <td>{{employee.id}}</td>
+        <td>{{employee.name}}</td>
+        <td>{{employee.gender}}</td>
+        <td>{{employee.salary}}</td>
+    </tr>    
+</table>
+
+<label>{{employeeSearchCtrl.employees.name}}</label>
