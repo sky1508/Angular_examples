@@ -1,0 +1,10 @@
+﻿<h1>List of Employees</h1>
+
+<ul>
+    <li ng-repeat="employee in employeeCtrl.employees">
+        <a href="#/employees/{{employee.id}}">
+        {{employee.name}}</a>
+    </li>
+</ul>
+
+<button ng-click="employeeCtrl.reloadData()">Reload</button>
