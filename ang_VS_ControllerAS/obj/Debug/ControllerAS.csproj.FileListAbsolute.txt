@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\ControllerAS\bin\ControllerAS.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\ControllerAS\bin\ControllerAS.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\ControllerAS\obj\Debug\ControllerAS.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\ControllerAS\obj\Debug\ControllerAS.pdb
