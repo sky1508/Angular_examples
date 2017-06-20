@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterParamName\bin\UIRouterParamName.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterParamName\bin\UIRouterParamName.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterParamName\obj\Debug\UIRouterParamName.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterParamName\obj\Debug\UIRouterParamName.pdb
