@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\Routeparams\bin\Routeparams.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\Routeparams\bin\Routeparams.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\Routeparams\obj\Debug\Routeparams.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\Routeparams\obj\Debug\Routeparams.pdb
