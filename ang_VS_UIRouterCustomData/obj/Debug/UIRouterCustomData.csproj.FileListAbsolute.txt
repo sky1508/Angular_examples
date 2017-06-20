@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterCustomData\bin\UIRouterCustomData.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterCustomData\bin\UIRouterCustomData.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterCustomData\obj\Debug\UIRouterCustomData.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterCustomData\obj\Debug\UIRouterCustomData.pdb
