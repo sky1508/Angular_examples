@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterHtml5Mode\bin\UIRouterHtml5Mode.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterHtml5Mode\bin\UIRouterHtml5Mode.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterHtml5Mode\obj\Debug\UIRouterHtml5Mode.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\UIRouterHtml5Mode\obj\Debug\UIRouterHtml5Mode.pdb
