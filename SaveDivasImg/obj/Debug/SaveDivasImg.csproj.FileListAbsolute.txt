@@ -1,0 +1,4 @@
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\SaveDivasImg\bin\SaveDivasImg.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\SaveDivasImg\bin\SaveDivasImg.pdb
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\SaveDivasImg\obj\Debug\SaveDivasImg.dll
+C:\Users\513400\documents\visual studio 2010\Projects\Angular\SaveDivasImg\obj\Debug\SaveDivasImg.pdb
