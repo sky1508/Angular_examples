@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Div to Image</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="html2canvas.js"></script>
+	<script src="base64.js"></script>
+	<script src="canvas2image.js"></script>
+	<script src="1.js"></script>
+	<link href="1.css" rel="stylesheet">
+</head>
+<body>
+    <div id="first">
+  <img id="img1" width="150" height="100" src="images.jpg" />
+</div>
+
+<div id="second">
+  <img id="img2" width="150" height="100" src="images.jpg" />
+</div>
+<div id="third">
+  <img id="img3" width="150" height="100" src="images.jpg" />
+</div>
+<div id='New'></div>
+
+<input type="button" id="btnSave" value="Save PNG"/>
+
+<div id="img-out" width="750" height="500"></div>
+
+<script>
+    $('#New').html("<table id='table1'><tr><td><div id='a'>" + $('#first').html() + "</div></td></tr>" +
+  "<tr><td><div id='b'>" + $('#second').html() + "</div><div id='c'> " + $('#third').html() +
+  "</div></td></tr></table>")
+</script>
+</body>
+</html>
